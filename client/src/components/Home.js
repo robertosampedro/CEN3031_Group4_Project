@@ -12,6 +12,7 @@ const Home = () => {
             <Header />
         </div>
         <div>
+        <Brand />
         </div>
         </div>
     )
